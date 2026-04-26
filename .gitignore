@@ -1,0 +1,13 @@
+# Build files
+build/
+*.o
+*.out
+*.elf
+*.bin
+*.hex
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
